@@ -1,2 +1,2 @@
 # SoT-AHK-Multiscript
-An Multiscript to SoT written only in AHK
+An Multiscript for SoT written only in AHK
